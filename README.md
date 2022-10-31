@@ -8,18 +8,39 @@ Pewlett Hackard has fallen a bit behind in the database department, we will help
 
 After looking deep into the analysis, we found out that a lot of employees are retired based on the age and the date they got hired.
 
-•	•	We retrieve the employees who were born between 1952 and 1955. Then, order by the employee number. 
+•	We retrieve the employees who were born between 1952 and 1955. Then, order by the employee number. 
 
 ![image](https://user-images.githubusercontent.com/49285767/198912034-42dfd860-1b97-4071-b4da-9ed26e1d8758.png)
 
 •	We then counted the number of employees based on the title:
 
-![image](https://user-images.githubusercontent.com/49285767/198911882-a5a3f622-48e8-480a-9db2-6a12217e60e9.png)
-
-
-
 ![image](https://user-images.githubusercontent.com/49285767/198912536-ad59d7a8-4090-4266-b27a-02b88a2a04be.png)
 
+•	We then counted the number of employees based on the title:
+
+![image](https://user-images.githubusercontent.com/49285767/198911882-a5a3f622-48e8-480a-9db2-6a12217e60e9.png)
+
+•	Finally, we have created a new table which has the list of all current employees. This table lists all the employees whose birth dates are between January 1, 1965 and December 31, 1965.
+
+![image](https://user-images.githubusercontent.com/49285767/198913374-73129623-8545-4315-9a86-929a2220f634.png)
+
+3.	Summary: 
+
+o	How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+   • Based on the calculated retirement employees, we see that 72458 people are on the list to get retired out of 499996 total employees in the tables created. so the manger needs to fill out 72458 new roles.
+   
+o	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+    we calculated the total employees to see if there is enough qualified retirement employees in departments to mentor the next generation of Pewlett Hackard employees
+    
+![image](https://user-images.githubusercontent.com/49285767/198914791-82acb80b-07f3-41c2-9c60-18e97b81adeb.png)
+
+
+![image](https://user-images.githubusercontent.com/49285767/198914890-bb37f85d-3d06-456a-9dc7-43d433124553.png)
+
+
+    
 
 
 
