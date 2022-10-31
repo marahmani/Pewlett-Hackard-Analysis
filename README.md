@@ -8,7 +8,7 @@ Pewlett Hackard has fallen a bit behind in the database department, we will help
 
 After looking deep into the analysis, we found out that a lot of employees are retired based on the age and the date they got hired.
 
-•	We first created a table that joined two tables employee and title to have all the titles of employees. 
+•	•	We retrieve the employees who were born between 1952 and 1955. Then, order by the employee number. 
 
 ![image](https://user-images.githubusercontent.com/49285767/198912034-42dfd860-1b97-4071-b4da-9ed26e1d8758.png)
 
@@ -16,6 +16,9 @@ After looking deep into the analysis, we found out that a lot of employees are r
 
 ![image](https://user-images.githubusercontent.com/49285767/198911882-a5a3f622-48e8-480a-9db2-6a12217e60e9.png)
 
+
+
+![image](https://user-images.githubusercontent.com/49285767/198912536-ad59d7a8-4090-4266-b27a-02b88a2a04be.png)
 
 
 
