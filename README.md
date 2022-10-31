@@ -34,11 +34,9 @@ o	Are there enough qualified, retirement-ready employees in the departments to m
 
     we calculated the total employees to see if there is enough qualified retirement employees in departments to mentor the next generation of Pewlett Hackard employees
     
-![image](https://user-images.githubusercontent.com/49285767/198914791-82acb80b-07f3-41c2-9c60-18e97b81adeb.png)
+![image](https://user-images.githubusercontent.com/49285767/198915072-4544c61f-787e-4e03-bc09-e919b98396f6.png)
 
-
-![image](https://user-images.githubusercontent.com/49285767/198914890-bb37f85d-3d06-456a-9dc7-43d433124553.png)
-
+Based on the calculation above, we conclude that although there are a lot of employees getting retired, but there is still enought qualified retirement employees in departments to mentor the next generation of Pewlett Hackard employees. 
 
     
 
